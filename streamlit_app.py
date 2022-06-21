@@ -49,7 +49,7 @@ except URLError as e:
   
 #
 # don't run anything
-streamlit.stop()
+#streamlit.stop()
 
 #
 
